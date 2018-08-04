@@ -1,3 +1,1 @@
-# Tutorial
-
-This is my tutorial repository.
+This is a java program that draws the Kenyatta University main campus main gate in java applet/jpanel. It uses lines, arcs rectangles and strings. I colleced over 400 points via tracing them over a photo of the gate just for the lines. An update is required to solve the strings part, since drawing the strings using g2.drawstring had the strings inverted, so I had to use g.drawstring, but this doesn't fit into the existing coordinates, and thus to still maintain the proportionality I chose to disable window maximize. I suspect the strings would still go out of place when viewed on different screens. This begun as a class project and was submitted as it currently is (as uploaded now on this edit).
