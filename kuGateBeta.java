@@ -1,5 +1,5 @@
 /*@author Kamau Charles M 
-Reg #: I163S/19134/2014
+
 */ 
 package mygate;
 
@@ -19,7 +19,7 @@ public class mygate extends JPanel {
      */
     public static void main(String[] args) {
         JFrame window;
-        window = new JFrame("Java Graphics Project. Reg #: I163S/19134/2014_ Kamau Charles M.");  // The parameter shows in the window title bar.
+        window = new JFrame("Java Graphics Project. Reg #: Kamau Charles M.");  // The parameter shows in the window title bar.
         window.setContentPane( new mygate() ); // Show a Graphics starter in the window.
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // End program when window closes.
         window.pack();  // Set window size based on the preferred sizes of its contents.
